@@ -4,7 +4,7 @@ A website generated with HTML, Bulma CSS and Javascript.
 
 ### Getting Started 🚀
 
-This project was built by practicing and using bulma css as a frontend framework, for this reason you can obtain diverse opinions, it is only a contribution to those who are starting in web development. This is a project that shows a web development portfolio.
+Workflow to develop frontend with webpack, javascript, bulma css and fontawesome, for this reason you can obtain diverse opinions, it is only a contribution to those who are starting in web development. This is a project that shows a web development portfolio.
 
 #### Prerequisites 📋
 
